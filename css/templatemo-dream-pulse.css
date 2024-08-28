@@ -20,7 +20,7 @@ p {
   text-align: justify;
   font-weight: 500;
   font-size: 20px;
-  padding: 0 15px 0 15px;	
+  padding: 0 15px 0 15px;
   margin-bottom: 0;
 }
 
@@ -64,7 +64,7 @@ a {
 
 .tm-section-title {
   font-size: 40px;
-  padding: 0px 15px 0 15px;	
+  padding: 0px 15px 0 15px;
 }
 
 .parallax-window {
@@ -80,7 +80,10 @@ a {
   padding: 55px 60px 0px;
 }
 
-#guilherme, #apresentacao, #experiencias, #formacao {
+#guilherme,
+#apresentacao,
+#experiencias,
+#formacao {
   min-height: 100vh;
   max-width: none;
 }
@@ -610,7 +613,7 @@ figure.effect-bubba:hover p {
   }
 
   .tm-sidebar {
-    width: 250px;
+    width: 300px;
     left: -250px;
     padding: 15px;
     transition: all 0.3s ease;
