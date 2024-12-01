@@ -28,6 +28,16 @@ a {
   transition: all 0.3s ease;
 }
 
+.links-personal {
+  line-height: 1.6;
+  text-align: justify;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 0 15px 0 15px;
+  margin-bottom: 0;
+  color: #707172;
+}
+
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
@@ -83,7 +93,8 @@ a {
 #guilherme,
 #apresentacao,
 #experiencias,
-#formacao {
+#formacao,
+#portfolio {
   min-height: 100vh;
   max-width: none;
 }
